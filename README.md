@@ -6,6 +6,7 @@
   <a href="https://ridhotadjudin.id"><img src="https://img.shields.io/badge/Portfolio-ridhotadjudin.id-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ridhotadjudin"><img src="https://img.shields.io/badge/LinkedIn-ridhotadjudin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ridho@ridhotadjudin.id"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://ridhotadjudin.id"><img src="https://img.shields.io/badge/🔬_Live_QA_Tools-ridhotadjudin.my.id-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
